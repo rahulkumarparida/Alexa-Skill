@@ -1,0 +1,30 @@
+{
+    "Morning": [
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Morning/1.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Morning/2.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Morning/3.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Morning/4.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Morning/5.mp3"
+    ],
+    "Afternoon": [
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Afternoon/1.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Afternoon/2.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Afternoon/3.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Afternoon/4.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Afternoon/5.mp3"
+    ],
+    "Evening": [
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Evening/1.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Evening/2.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Evening/3.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Evening/4.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Evening/5.mp3"
+    ],
+    "Night": [
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Night/1.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Night/2.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Night/3.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Night/4.mp3",
+      "https://alexa-custom-music-commands.s3.ap-south-1.amazonaws.com/music/Night/5.mp3"
+    ]
+  }
