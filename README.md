@@ -174,3 +174,13 @@ Music Plays
 [ Music Plays from S3 ]
 
 ```
+
+## Repository Structure
+
+```text
+Source/        → Lambda function and local data files  
+Screenshots/   → Real-device and console screenshots  
+README.md      → Project overview and architecture  
+ERRORS.md      → Detailed issues and architectural learnings
+
+
